@@ -5,9 +5,9 @@
 
 📫 Contato
 
--✉️ Email:emanuel09062009@gmail.com
--🔗 LinkedIn:https://www.linkedin.com/in/emanuel-cardoso-263002388
--📱 Instagram:https://www.instagram.com/emanuel.cds4
+- ✉️ Email:emanuel09062009@gmail.com
+- 🔗 LinkedIn:https://www.linkedin.com/in/emanuel-cardoso-263002388
+- 📱 Instagram:https://www.instagram.com/emanuel.cds4
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Manu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
